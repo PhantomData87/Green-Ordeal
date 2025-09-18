@@ -3,9 +3,9 @@ using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 using Vintagestory.API.Server;
 
-namespace VintageStory_Mod
+namespace Green_Ordeal
 {
-    public class VintageStory_ModModSystem : ModSystem
+    public class Green_OrdealModSystem : ModSystem
     {
 
         // Called on server and client
@@ -17,12 +17,12 @@ namespace VintageStory_Mod
 
         public override void StartServerSide(ICoreServerAPI api)
         {
-            Mod.Logger.Notification("Hello from template mod server side: " + Lang.Get("vintagestory_mod:hello"));
+            Mod.Logger.Notification("Hello from template mod server side: " + Lang.Get("green ordeal:hello"));
         }
 
         public override void StartClientSide(ICoreClientAPI api)
         {
-            Mod.Logger.Notification("Hello from template mod client side: " + Lang.Get("vintagestory_mod:hello"));
+            Mod.Logger.Notification("Hello from template mod client side: " + Lang.Get("green ordeal:hello"));
         }
 
     }

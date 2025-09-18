@@ -26,7 +26,7 @@ namespace CakeBuild
 
     public class BuildContext : FrostingContext
     {
-        public const string ProjectName = "VintageStory_Mod";
+        public const string ProjectName = "Green_Ordeal";
         public string BuildConfiguration { get; }
         public string Version { get; }
         public string Name { get; }
