@@ -3,9 +3,9 @@ using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 using Vintagestory.API.Server;
 
-namespace Green_Ordeal
+namespace Green_ordeal
 {
-    public class Green_OrdealModSystem : ModSystem
+    public class Green_ordealModSystem : ModSystem
     {
 
         // Called on server and client

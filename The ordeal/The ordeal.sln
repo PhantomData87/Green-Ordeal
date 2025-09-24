@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Green ordeal", "Green ordeal\Green ordeal\Green ordeal.csproj", "{86E58C3B-E306-4666-B2A6-841E9C416537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "Green ordeal\ZZCakeBuild\CakeBuild.csproj", "{7CCBC734-BF0C-461E-81F2-52C5E60B48A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E58C3B-E306-4666-B2A6-841E9C416537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E58C3B-E306-4666-B2A6-841E9C416537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E58C3B-E306-4666-B2A6-841E9C416537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E58C3B-E306-4666-B2A6-841E9C416537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCBC734-BF0C-461E-81F2-52C5E60B48A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCBC734-BF0C-461E-81F2-52C5E60B48A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCBC734-BF0C-461E-81F2-52C5E60B48A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCBC734-BF0C-461E-81F2-52C5E60B48A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE9A69E-31E1-4517-9777-58923B85B47C}
+	EndGlobalSection
+EndGlobal
